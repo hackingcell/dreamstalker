@@ -1,0 +1,6 @@
+note_01.txt|read me.txt
+note_02.txt|it knows.txt
+note_03.txt|five minutes.txt
+note_04.txt|faces.txt
+note_05.txt|my voice.txt
+note_06.txt|DO NOT SLEEP.txt

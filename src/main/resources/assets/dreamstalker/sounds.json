@@ -1,0 +1,19 @@
+{
+  "jumpscare": {
+    "sounds": [
+      { "name": "dreamstalker:jumpscare1", "stream": false },
+      { "name": "dreamstalker:jumpscare2", "stream": false },
+      { "name": "dreamstalker:jumpscare3", "stream": false }
+    ]
+  },
+  "glitch": {
+    "sounds": [
+      { "name": "dreamstalker:glitch", "stream": false }
+    ]
+  },
+  "faint": {
+    "sounds": [
+      { "name": "dreamstalker:faint", "stream": false }
+    ]
+  }
+}
